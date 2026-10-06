@@ -11,5 +11,5 @@ export const config = {
   ],
   // Optional: Handynummer im internationalen Format ohne "+" (z. B. "4917612345678").
   // Leer lassen -> WhatsApp lässt die Person den Kontakt selbst auswählen.
-  whatsappNumber: "",
+  whatsappNumber: "491733828533",
 };
